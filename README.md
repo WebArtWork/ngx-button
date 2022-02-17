@@ -5,5 +5,5 @@
 <wbutton type="primary"></wbutton>
 ```
 
-## Available types
-**primary, second, danger** 
+## Arguments
+type: string | Available types: **primary, second, danger** 
