@@ -6,4 +6,6 @@
 ```
 
 ## Arguments
+```
 type: string | Available types: **primary, second, danger** 
+```
