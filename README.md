@@ -7,5 +7,5 @@
 
 ## Arguments
 ```
-type: string | Available types: **primary, second, danger** 
+type: string | Available types: primary, second, danger
 ```
