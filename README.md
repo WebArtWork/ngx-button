@@ -2,7 +2,7 @@
 
 ## Usage
 ```html
-<wbutton type="primary"></wbutton>
+<wbutton type="primary">Button</wbutton>
 ```
 
 ## Arguments
