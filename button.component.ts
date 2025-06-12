@@ -6,7 +6,6 @@ import {
 	Output,
 	SimpleChanges
 } from '@angular/core';
-import { NgClass } from '@angular/common';
 
 /**
  * ButtonComponent is a reusable Angular component for buttons.
@@ -14,10 +13,10 @@ import { NgClass } from '@angular/common';
  * and emits events when clicked.
  */
 @Component({
-    selector: 'wbutton',
-    templateUrl: './button.component.html',
-    styleUrls: ['./button.component.scss'],
-    imports: [NgClass]
+	selector: 'wbutton',
+	templateUrl: './button.component.html',
+	styleUrls: ['./button.component.scss'],
+	standalone: false
 })
 export class ButtonComponent implements OnChanges {
 	/**
